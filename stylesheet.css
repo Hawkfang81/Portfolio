@@ -1,5 +1,9 @@
 h1{
 	border-style: double groove double groove;
+	border-width:15px
+	border-color: #273746
+	float: left
+	clear: both
 }
 
 p {
